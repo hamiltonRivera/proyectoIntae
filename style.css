@@ -34,11 +34,12 @@
 {
     
     width:100%;
-    height:30px;
+    height:50px;
     background-color: rgba(165, 42, 42, 0.829);
     text-decoration: underline;
     font-style: italic;
     color: whitesmoke;
+    background-image: url(https://66.media.tumblr.com/c194097d084625b7db7b3f6cb917c9a2/tumblr_o5226q7Vfz1uvixr0o1_540.gif);
     
 }
 
