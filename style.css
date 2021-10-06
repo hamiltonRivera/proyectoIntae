@@ -1,4 +1,4 @@
-
+/* ******navbar */
 .fondo
 {
    background-color: brown;
@@ -6,13 +6,14 @@
 .gg
 {
     margin-left: 25px;
+    color: burlywood;
 }
 .abeja
 {
     background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_74056514_vector-logo-plantilla-de-dise%25C3%25B1o-en-la-moda-minimalista-estilo-lineal-abeja-concepto-emblema-para-el-env.html&psig=AOvVaw3GFqBYRPer4CpJSfYhp6Si&ust=1633619137598000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCFhZ-HtvMCFQAAAAAdAAAAABAD);
 }
 
-=======
+/* ************footer */
 .copyright
 {
     
