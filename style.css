@@ -2,8 +2,15 @@
 .fondo
 {
    background-color: brown;
+   font-size: 25px;
    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-yellow-nature-hive-bee-honey-e-commerce-banner-image_173640.jpg);
 }
+
+#til
+{
+    font-size: 35px;
+}
+
 .gg
 {
     margin-left: 25px;
